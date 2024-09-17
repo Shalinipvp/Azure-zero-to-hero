@@ -29,4 +29,5 @@ A **Resource Group** in Azure is a logical container for resources that share th
 - **Tagging and Categorization:** You can use tags to label and categorize resources, making it easier to manage and organize your Azure environment.
 
 **Note:** Understanding Azure resources, resource groups, and Azure Resource Manager is fundamental to effectively utilize and manage your resources in the Azure cloud.
-
+shalini : 
+Practical : learnt to create a Resource group and VM
